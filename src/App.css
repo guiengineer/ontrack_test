@@ -31,3 +31,47 @@
     transform: rotate(360deg);
   }
 }
+
+.listDisplayClass {
+	display: block;
+	text-align: left;
+	border: 4px solid blue;
+	margin: 2px;
+	height: 200px;
+	overflow: auto;
+}
+
+
+.listItemClass {
+	display: block;
+	text-align: left;
+	border: 1px solid black;
+	margin: 2px;
+}
+
+.listItemSectionClass {
+	display: block;
+}
+
+.listItemSectionLabelClass {
+	display: inline-block;
+	margin-left: 2px;
+	width: 100px;
+}
+
+.listItemSectionTxtClass {
+	display: inline-block;
+	margin-left: 2px;
+}
+
+.infoClass {
+	display: block;
+	text-align: left;
+	margin: 10px;
+}
+
+.buttonDivClass {
+	display: inline-block;
+	text-align: left;
+	margin: 10px;
+}
